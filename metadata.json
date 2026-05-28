@@ -1,0 +1,6 @@
+{
+  "name": "AuraMini AI Browser",
+  "description": "Premium ultra-speed mobile web browser with dark website themes, integrated crypto rewards coins ledger, fast ad blocker, and animated AI avatar summarizer companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
